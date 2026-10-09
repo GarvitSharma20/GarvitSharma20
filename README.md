@@ -18,9 +18,9 @@
 
 | Project | What it is | Link |
 |---|---|---|
-| **Vasuki** | Autonomous snake-like disaster-response robot with live video, audio and gas detection (patent filed) | [Link]((https://drive.google.com/drive/folders/1RQ8JVs-qHLsXbC2VcH__mS_h0ojKCu8J?usp=sharing)) |
-| **Pavitra Step** | IoT wearable health-monitoring system for defense use (patent filed) | [Link]((https://drive.google.com/drive/folders/1PXYpW3x77XCecvuC9qWi6lxo-v5P3VAe?usp=sharing)) |
-| **Jeevika Setu** | AI-Driven Voice Assistant for Livelihood Mapping | [Link](https://drive.google.com/drive/u/2/folders/19rtya17ohg6QMfsiI-GLffIaeW1wCKV7)) |
+| **Vasuki** | Autonomous snake-like disaster-response robot with live video, audio and gas detection (patent filed) | [Link](https://drive.google.com/drive/folders/1RQ8JVs-qHLsXbC2VcH__mS_h0ojKCu8J?usp=sharing) |
+| **Pavitra Step** | IoT wearable health-monitoring system for defense use (patent filed) | [Link](https://drive.google.com/drive/folders/1PXYpW3x77XCecvuC9qWi6lxo-v5P3VAe?usp=sharing) |
+| **Jeevika Setu** | AI-Driven Voice Assistant for Livelihood Mapping | [Link](https://drive.google.com/drive/u/2/folders/19rtya17ohg6QMfsiI-GLffIaeW1wCKV7) |
 | **Field monitoring robot** | ESP32-based army field monitoring robot (4th-year major project) | [Link](https://drive.google.com/file/d/1PjNKuRFZnYqGNbw3MwBGoQkUSNUqxieT/view?usp=sharing) |
 
 > Browse everything: [all repositories](https://github.com/GarvitSharma20?tab=repositories)
