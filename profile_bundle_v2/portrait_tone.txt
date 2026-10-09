@@ -1,0 +1,73 @@
+
+                                                                       dddddd
+                                                      d  dddddddddddddddddddddddddddddd     dd
+                                                 dddddddddddddddddddddddddddddddddddddddddddddddddddd
+                                               dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+                                          ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+                                      d   dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+                                  ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+                                 dddddddddddddddddddddddddddddddddddddddddsdddddddddddddddddddddddddddddddddddddddddddddd
+                                dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+                               ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+                              dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+                            ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+                           dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+                           ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssssddddddddddddddddddddddddddddd dd
+                          dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssssddddddddddddddd dd
+                          ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssdddddddddd  dd
+                           dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsdsssssssssssssssssssssssdddddddd   dd
+                           ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsdsssssssssssssssssssssssssdddddd   dd
+                           ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssdddd    d
+                           ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssssssssssssssssssssssssssssssdd     d
+                            ddddddddddddddddddddddddddddddddddddddddddddddddsdddddddssssssssssssssssssssssssssssssssssssd    d
+                            dddddddddddddddddddddddddddddddddddddddddddddddddsddddsssssssssssssssssssssdddddddddddsssssssd
+                            dddddddddddddddddddddddddddddddddddddddddddddddsddsdsssssssssssssssssssssssssssssdddddddsssssd
+                            dddddddddddddddddddddddddsssddddddddddddddddddddddsssssssssssssssssssssssssssssssssdddddddssssdd
+                             dddddddddddddddddddddssssssssssssssssdddddddddsddssssssssssssssssssssssssssssssddddddddsssssddd
+                              dddddddddddddddddddssssssssssssssssssssddddddsssssssssssssssssssssssssddddddddddddddssssssddd
+                              ddddddddddddddddddssssssssssdsssssssssssssdsdsssssssssssssssssssssssssssssssssdddddssssssssd
+                               dddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddssssssssssdd
+                               ddddddddddddddddsssssssssssssdsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdd
+                                ddddddddddddddddssssssssssddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssd
+                                 dddddddddddddddsssssssssssssssdsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssd
+                                 ddddddddddddddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssd
+                                  ddddddddddddddddssssssssssssssddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssd
+                                   ddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdd
+                                    dddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdsdddddd
+                                    dddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssddd
+                                     ddddddddddddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+                                      dddddddddddddssssssssssssssdddsssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+                                       ddddddddddddssssssssssddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+                                        dddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdddsssssssssdd
+                                         ddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssd
+                                          ddddddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssd
+                                           dddddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdd
+                                            dddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdd
+                                             dddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssd
+                                             ddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssd
+                                            ddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssd
+                                           ddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdd
+                                          ddssssssssssssssssssssssssssssssssssssssssssssssssddddsssssssssdddddsssssssssdd
+                                        ddsssssssssssssssssssssssssssssssssssssssssssssssssdddddddddddddddddddddddddddd
+                                      dddsssssssssssssssssssssssssssssssssssssssssssssssssdddddddddddddddddddddddd
+                                ddddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddd
+                            ddddddddddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssddddd
+                          ddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssssssdd
+                       ddddddddddddddddddddddssssssssssssssssssssssssssssssssssssssssssssssssssdd
+                    ddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssssssssssssssddd
+                    ddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssssssssdddddddd
+                      dddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssssddddddddddddd
+                        dddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssdddddddddddddddddd
+                         dddddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssddddddddddddddddddddddd
+                           dddddddddddddddddddddddddddddddddssssssssssssssssssssssssssddddddddddddddddddddddddddd
+                             ddddddddddddddddddddddddddddddddddsssssssssssssssssssssssddddddddddddddddddddddddddddd
+                               dddddddddddddddddddddddddddddddddddssssssssssssssssssssssddddddddddddddddddddddddddddd
+                                 ddddddddddddddddddddddddddddddddddddsssssssssssssssssssddddddddddddddddddddddddddddddd
+                                    dddddddddddddddddddddddddddddddddddddsssssssssssssssdddddddddddddddddddddddddddddd
+                                      dddddddddddddddddddddddddddddddddddddddddsssssssdddddddddddddddddddddddddddddd
+                                         ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+                                             dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+                                                 ddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+                                                       dddddddddddddddddddddddddddddddddddddddddddd
+                                                               dddddddddddddddddddddddddddd
+
