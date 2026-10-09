@@ -1,5 +1,13 @@
 <div align="center">
 
+<div align="center">
+
+  <h3><code>garvit@github ~ $ ./contributions.sh</code></h3>
+
+  <img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution graph" />
+
+</div>
+
 <a href="https://github.com/GarvitSharma20">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
